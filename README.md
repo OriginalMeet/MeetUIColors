@@ -20,9 +20,7 @@
 - Drag and Drop to prioritize the colors.
 
 <a href="https://share.vidyard.com/watch/WXcqGZsC26YjaFQT1QTHft?" title="Demo"></a>
-
-<img width="1440" alt="Screen Shot 2021-07-01 at 11 38 18 PM" src="https://user-images.githubusercontent.com/48958232/124217006-6c944180-dac5-11eb-8021-0a0a75173dbc.png">
-
+<a href="https://share.vidyard.com/watch/WXcqGZsC26YjaFQT1QTHft?" title="Demo"><img width="1440" alt="Screen Shot 2021-07-01 at 11 38 18 PM" src="https://user-images.githubusercontent.com/48958232/124217006-6c944180-dac5-11eb-8021-0a0a75173dbc.png"></a>
 
 
 

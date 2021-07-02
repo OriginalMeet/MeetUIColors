@@ -2,8 +2,11 @@
 
 - A inspired by the website like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers).
 
-- It is a Big Application and as it is being hosted on the Github Pages, please wait for 2 minutes before clicking around as it takes some time on github to get everything rendered.
-    - In the past it was hosted on a great servers of Heroku but they started charging money and because of that I had to shift it to github pages. Thanks and Enjoy😊 
+- In the past it was hosted on a great servers of Heroku but they started charging money and because of that I had to remove the Working Link. Thanks and Enjoy😊 
+
+- But feel free to download it then do npm install and npm run on the local to play with the website.
+
+- Here is a video: https://share.vidyard.com/watch/WXcqGZsC26YjaFQT1QTHft?
 
 - Made to work with all type of Screen size.
 

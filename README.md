@@ -2,7 +2,7 @@
 
 - A inspired by the website like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers).
 
-- It is a Big Application and as it is being hosted on the Github Pages, please wait for 2 minutes before clicking around.
+- It is a Big Application and as it is being hosted on the Github Pages, please wait for 2 minutes before clicking around as it takes some time on github to get everything rendered.
     - In the past it was hosted on a great servers of Heroku but they started charging money and because of that I had to shift it to github pages. Thanks and Enjoy😊 
 
 - Made to work with all type of Screen size.

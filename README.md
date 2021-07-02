@@ -1,68 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# My Biggest React Project (Inspired by Flat UI Colors)
 
-## Available Scripts
+- A inspired by the website like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers).
 
-In the project directory, you can run:
+- Made to work with all type of Screen size.
 
-### `npm start`
+- Made with ❤️ using React.js
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- You can either go ahead and find your dream color palette.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+<img width="1440" alt="Screen Shot 2021-07-01 at 11 28 11 PM" src="https://user-images.githubusercontent.com/48958232/124216324-01963b00-dac4-11eb-8081-8a4c510d3257.png">
 
-### `npm test`
+<img width="1440" alt="Screen Shot 2021-07-01 at 11 30 30 PM" src="https://user-images.githubusercontent.com/48958232/124216449-55088900-dac4-11eb-8fa3-5a90f4372819.png">
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1440" alt="Screen Shot 2021-07-01 at 11 32 03 PM" src="https://user-images.githubusercontent.com/48958232/124216545-8bde9f00-dac4-11eb-9111-177804b81010.png">
 
-### `npm run build`
+<img width="1440" alt="Screen Shot 2021-07-01 at 11 32 13 PM" src="https://user-images.githubusercontent.com/48958232/124216559-91d48000-dac4-11eb-98f7-53fd2b6b03ab.png">
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Or create an entire new Color Palette 
+- Drag and Drop to prioritize the colors.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+<a href="https://share.vidyard.com/watch/WXcqGZsC26YjaFQT1QTHft?" title="Demo"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1440" alt="Screen Shot 2021-07-01 at 11 38 18 PM" src="https://user-images.githubusercontent.com/48958232/124217006-6c944180-dac5-11eb-8021-0a0a75173dbc.png">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

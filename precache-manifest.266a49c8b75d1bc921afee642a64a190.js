@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e6bb364fe605a59a513a",
+    "revision": "daa20323d3d5d9b00ffb",
     "url": "/MeetUIColors/static/css/main.28bc4a8e.chunk.css"
   },
   {
-    "revision": "e6bb364fe605a59a513a",
-    "url": "/MeetUIColors/static/js/main.b1b29337.chunk.js"
+    "revision": "daa20323d3d5d9b00ffb",
+    "url": "/MeetUIColors/static/js/main.1dc11a1e.chunk.js"
   },
   {
     "revision": "b4713303d9aa483d3c2a",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/MeetUIColors/static/media/bg.77428cd4.svg"
   },
   {
-    "revision": "85425924fd0b2b08fe15b8a858aed531",
+    "revision": "9d8e63b4cce188d23c641d141d0c643e",
     "url": "/MeetUIColors/index.html"
   }
 ];

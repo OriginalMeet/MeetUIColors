@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MeetUIColors/precache-manifest.1614021c0484b3e17572078eddd73139.js"
+  "/MeetUIColors/precache-manifest.266a49c8b75d1bc921afee642a64a190.js"
 );
 
 workbox.clientsClaim();

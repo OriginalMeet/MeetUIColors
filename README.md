@@ -1,4 +1,4 @@
-# My Biggest React Project (Inspired by Flat UI Colors)
+# Huge UI Color Palettes Website Project (Inspired by Flat UI Colors)
 
 - A inspired by the website like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers).
 
